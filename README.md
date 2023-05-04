@@ -16,7 +16,7 @@ Com uma equipe especializada em tecnologia e inovação, o TecBlog traz artigos 
 
 Além disso, o TecBlog oferece tutoriais e dicas práticas para os seus leitores, ensinando a utilizar ferramentas e softwares importantes para o dia a dia. Com uma linguagem acessível e didática, o TecBlog é uma excelente fonte de informação para quem busca se atualizar e ficar por dentro das novidades em tecnologia.
 
-Não perca tempo e confira agora mesmo o TecBlog. Acesse www.xyz.com.br e descubra como a tecnologia pode fazer a diferença na sua vida!
+Não perca tempo e confira agora mesmo o TecBlog. Acesse https://tecblog-production.up.railway.app/ e descubra como a tecnologia pode fazer a diferença na sua vida!
 
 # :hammer: Funcionalidades do projeto
 
@@ -28,7 +28,7 @@ Não perca tempo e confira agora mesmo o TecBlog. Acesse www.xyz.com.br e descub
 # 📁 Acesso ao projeto
 
 **Você pode acessar os arquivos do projeto clicando <a href="https://github.com/Rafael-Lee1/TecBlog">aqui</a>.</p>
-**Você pode acessar o projeto clicando <a href="https://projetoannabella-production.up.railway.app/contato.html">aqui</a>.</p>
+**Você pode acessar o projeto clicando <a href="https://tecblog-production.up.railway.app/">aqui</a>.</p>
 
 # 🛠️ Tecnologias utilizadas
 
